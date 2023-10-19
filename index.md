@@ -6,3 +6,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Doing the dishes
+- [ ] Studying
+- [ ] Napping
